@@ -3,7 +3,10 @@
 A Python-based image-analysis workflow for quantifying fiber-like structures in confocal microscopy images.
 
 The notebook processes multiple experimental groups, segments fibers using Otsu thresholding, removes small or non-fiber objects, calculates structural and intensity-based measurements, and compares groups statistically.
-
+DATASET_PATHS = {
+    "Control": r"C:\Users\username\project-data\Control",
+    "Treatment": r"C:\Users\username\project-data\Treatment",
+}
 ## Features
 
 - Processes individual images and multi-frame image stacks
