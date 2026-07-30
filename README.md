@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1317742850.svg)](https://doi.org/10.5281/zenodo.21711387)
+
 # Confocal Microscopy Fiber Analysis
 
 A Python-based image-analysis workflow for quantifying fiber-like structures in confocal microscopy images.
